@@ -1,6 +1,6 @@
 {
   "name": "huli-db",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Database service with MySQL-Bricks and dependency-injection",
   "main": "index.js",
   "scripts": {

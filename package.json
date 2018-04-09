@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/DonBattery/huli-db#readme",
   "dependencies": {
+    "huli-env": "^1.0.1",
     "mysql": "^2.15.0"
   }
 }

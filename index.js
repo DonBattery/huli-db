@@ -1,6 +1,6 @@
 'use strict';
 
-const getConn = require('./envservice').getDBConn;
+const getConn = require('huli-env').getDBConn;
 const mysql = require('mysql');
 
 function executeQuery(query) {

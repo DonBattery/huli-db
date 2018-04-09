@@ -1,0 +1,30 @@
+{
+  "name": "huli-db",
+  "version": "1.0.0",
+  "description": "Database service with MySQL-Bricks and dependency-injection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonBattery/huli-db.git"
+  },
+  "keywords": [
+    "huli",
+    "database",
+    "service",
+    "mysql",
+    "bricks",
+    "dependency-injection"
+  ],
+  "author": "Crystalpig Conclave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DonBattery/huli-db/issues"
+  },
+  "homepage": "https://github.com/DonBattery/huli-db#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}

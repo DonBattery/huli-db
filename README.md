@@ -6,7 +6,7 @@ This module is depending on the MySQL module because it will connect to MySQL da
 
 The module exports a function
 
-'''JAVASCRIPT
+```JAVASCRIPT
 executeQuery(query)
 ```
 
